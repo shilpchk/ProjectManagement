@@ -1,8 +1,7 @@
-# Group Project Management Template
+# Shilpa's Projects
 
-This repository contains issues related to the management of all group projects along with weekly progress records for all group members and collaborators.
-
-Check out the [roadmap](https://github.com/satra/ProjectManagementTemplate/projects/1) for more information.
+This repository contains issues related to the management of shilpa's projects along with weekly progress records.
+Check out the [roadmap](https://github.com/shilpchk/ProjectManagementTemplate/projects/1) for more information.
 
 ## Working open
 
@@ -10,9 +9,6 @@ At the group we are dedicated to working as openly as possible. We believe that 
 
 We may have private repositories if our collaborators are more comfortable with restricted working on some projects, but we aspire to "be the change" and demonstrate open working practices wherever possible.
 
-## Onboarding
-
-If you're new to the group, check out the [Onboarding repository](https://github.com/WhitakerLab/Onboarding) which will talk you through the different exercises and actions for your first few weeks in the group.
 
 ## License and code of conduct
 
