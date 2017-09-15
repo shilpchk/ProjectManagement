@@ -13,26 +13,23 @@
    - I think there is python versioning problem (not sure though). 
    - Last week Dorota helped me read crash files. I will look into error more next week.
 * T1 data list
-   - I realized that there is a lot of repeatations of files in openneuro list. 
+   - I realized that there is a lot of repetition of files in openneuro list. The actual number of files could be a few thousands. 
 * Openmind
    - I am running some jobs on Openmind until OSG problem is resolved.
    - But unable to upload data from Openmind to Dropbox. It is giving timeout error.
+   - Presently working on fixing it, so that I could transfer the data generated to dropbox.
+* Datacrawler
+   - Working with Smriti. I am specifically focusing on validating directory structure (e.g. freesurfer).
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
-
-#### Where do you need help from Kirstie?
-
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Figure out errors getting on OSG
+* Transfer data to Dropbox from Openmind.
+* Work with Smriti on datacrawler and related stuff.
 
 #### Any other topics
 
-This space is yours to add to as needed.
+I am reading some research articles for potential research proposals and want to discuss when we meet in person.
 
 ---
 
