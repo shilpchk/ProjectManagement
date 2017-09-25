@@ -3,6 +3,52 @@
 
 ---
 
+* [22nd September 2017](#date-22nd-September-2017)
+
+* [15th September 2017](#date-15th-September-2017)
+
+...
+
+---
+
+
+### Date: 22nd September 2017
+
+#### Who did you help this week?
+
+
+#### Who helped you this week?
+
+* I had a chat with Smriti about next changes on data crawler.
+* Met with Mathias about bugs on Openmind queue. We tried out few things to understand the process.
+* Olga added to the Gablab mailing list.
+
+#### What did you achieve?
+
+* Fixed the bug for uploading files from Openmind to Dropbox and uploaded data.
+* Worked on OSG and exchanged emails with Satra about the issue. 
+* I had meetings with Smriti and Mathias.
+
+#### What did you struggle with?
+
+* Openmind scheduler is buggy. Could not run my tasks.
+* OSG still giving errors. I think external variables doesn't get set properly in singularity container on OSG as the way to run container is not usual. 
+
+#### What would you like to work on next week?
+
+* Mathias shared his scripts to run jobs on Openmind which are working for the same config I am trying. I am going to use those scripts to see if there are any changes.
+* Work on data crawler with freesurfer validator.
+
+#### Where do you need help from Satra?
+
+* To fix bugs on OSG.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+---
+
 
 ### Date: 15th September 2017
 
