@@ -3,6 +3,10 @@
 
 ---
 
+* [6th October 2017](#date-6th-October-2017)
+
+* [29th September 2017](#date-29th-September-2017)
+
 * [22nd September 2017](#date-22nd-September-2017)
 
 * [15th September 2017](#date-15th-September-2017)
@@ -11,15 +15,87 @@
 
 ---
 
+### Date: 6th October 2017
 
-### Date: 22nd September 2017
 
 #### Who did you help this week?
 
 
 #### Who helped you this week?
 
-* I had a chat with Smriti about next changes on data crawler.
+
+#### What did you achieve?
+
+* Ran mindboggle on some more datasets and uploaded data to Dropbox
+* Worked on OSG container and datalad.
+
+#### What did you struggle with?
+
+* OSG container giving some errors. Working in debugging.
+
+#### What would you like to work on next week?
+
+* Running mindboggle in more datasets.
+* Modify and run OSG container.
+* Data crawler.
+
+
+#### Where do you need help from Satra?
+
+
+#### Any other topics
+
+Reading network papers related with Brain data.
+
+---
+
+### Date: 29th September 2017
+
+
+#### Who did you help this week?
+
+
+#### Who helped you this week?
+
+* Satra and Mathias helped reading pickle format files of errors.
+* Olga added to the Gablab mailing list.
+
+#### What did you achieve?
+
+* I had meetings with Satra and Mathias.
+* Worked on understanding errors geetting on OSG. 
+* Ran mindboggle on some more datasets and uploaded data to Dropbox
+
+#### What did you struggle with?
+
+* Openmind scheduler is buggy. Could not run my tasks.
+* OSG still giving errors. I think external variables doesn't get set properly in singularity container on OSG as the way to run container is not usual. 
+
+#### What would you like to work on next week?
+
+* Running mindboggle in more datasets.
+* Modify OSG container with new additions
+* Run OSG container. 
+* Data crawler.
+
+#### Where do you need help from Satra?
+
+
+#### Any other topics
+
+Reading network papers related with Brain data.
+
+---
+
+### Date: 22nd September 2017
+
+
+#### Who did you help this week?
+
+
+#### Who helped you this week?
+
+* I had a chat with Smruti about next changes on data crawler.
 * Met with Mathias about bugs on Openmind queue. We tried out few things to understand the process.
 * Olga added to the Gablab mailing list.
 
@@ -27,7 +103,7 @@
 
 * Fixed the bug for uploading files from Openmind to Dropbox and uploaded data.
 * Worked on OSG and exchanged emails with Satra about the issue. 
-* I had meetings with Smriti and Mathias.
+* I had meetings with Smruti and Mathias.
 
 #### What did you struggle with?
 
@@ -65,13 +141,13 @@ This space is yours to add to as needed.
    - But unable to upload data from Openmind to Dropbox. It is giving timeout error.
    - Presently working on fixing it, so that I could transfer the data generated to dropbox.
 * Datacrawler
-   - Working with Smriti. I am specifically focusing on validating directory structure (e.g. freesurfer).
+   - Working with Smruti. I am specifically focusing on validating directory structure (e.g. freesurfer).
 
 #### What would you like to work on next week?
 
 * Figure out errors getting on OSG
 * Transfer data to Dropbox from Openmind.
-* Work with Smriti on datacrawler and related stuff.
+* Work with Smruti on datacrawler and related stuff.
 
 #### Any other topics
 
